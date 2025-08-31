@@ -1,3 +1,30 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <title>İletişim 101 Slayt</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/white.css">
+</head>
+<body>
+<div class="reveal">
+  <div class="slides">
+    <section><h1>İletişim 101</h1><p>Temel Kavramlar ve Uygulamalar</p></section>
+    <section><h2>1. Giriş</h2><p>İletişim, kaynak ve alıcı arasında bilgi aktarımıdır.</p></section>
+    <section><h2>2. İletişim Türleri</h2>
+      <ul><li>Sözlü</li><li>Sözsüz</li><li>Yazılı</li><li>Dijital</li></ul>
+    </section>
+    <section><h2>3. İletişim Süreci</h2><p>Kaynak → Mesaj → Kanal → Alıcı → Geri Bildirim</p></section>
+    <section><h2>4. Etkili İletişim</h2><ul><li>Empati</li><li>Dinleme</li><li>Açıklık</li><li>Beden dili</li></ul></section>
+    <section><h2>5. Engeller</h2><ul><li>Ön yargı</li><li>Dikkat dağınıklığı</li><li>Kültürel fark</li></ul></section>
+    <section><h2>6. Uygulama</h2><p>Mesaj netliği testi + beden dili checklist</p></section>
+    <section><h2>7. Sonuç</h2><p>Etkili iletişim güveni artırır ve yanlış anlamaları azaltır.</p></section>
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
+<script>Reveal.initialize();</script>
+</body>
+</html>
 <a href="https://chat.vercel.ai/">
   <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
   <h1 align="center">Chat SDK</h1>
